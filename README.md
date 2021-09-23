@@ -14,8 +14,7 @@ Skills: C / C++ / Java / Python / JS / HTML / CSS /
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyothi-R)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-R)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyothi-R&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
