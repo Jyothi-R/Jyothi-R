@@ -1,6 +1,5 @@
 ### Hi there 👋, Welcome to my GitHub❤️
 #### Design and Developer
-(https://jyothirevanna63.wixsite.com/my-site)
 
 I'm Jyothi R from India, and I believe that "The only way to do great work is to LOVE what you do." I really enjoy learning Languages and new Technology. Coding for me is that , The way to create Real World Application that help the world in one or the other way!!
 
